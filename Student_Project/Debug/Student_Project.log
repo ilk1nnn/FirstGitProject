@@ -1,0 +1,14 @@
+﻿  Student_Project.cpp
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(77,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(139,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(169,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(201,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(233,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(255,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Functions.h(287,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ilkin\source\repos\Student_Project\Student_Project\Student_Project.cpp(14,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Student_Project.vcxproj -> C:\Users\ilkin\source\repos\Student_Project\Debug\Student_Project.exe
